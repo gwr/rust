@@ -49,7 +49,3 @@ date shown in the sysroot version tag.
 
 For details on illumos sysroot versions see:
 [sysroot versions](https://github.com/illumos/sysroot/releases)
-
-The actual sysroot version tag used is shown in the
-[illumos toolchain](../../../../ci/docker/scripts/illumos-toolchain.sh)
-script (see SYSROOT_VER).
